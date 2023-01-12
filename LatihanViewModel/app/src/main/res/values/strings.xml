@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LatihanViewModel</string>
+    <string name="width">Lebar</string>
+    <string name="name_developer">Candra Julius Sinaga</string>
+    <string name="result">Hasil</string>
+    <string name="calculate">Hitung</string>
+    <string name="height">Tinggi</string>
+    <string name="kosong">Masih kosong</string>
+    <string name="length">Panjang</string>
+</resources>

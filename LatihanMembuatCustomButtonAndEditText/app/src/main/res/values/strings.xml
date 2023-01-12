@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan View</string>
+    <string name="isEnable">Submit</string>
+    <string name="isDisable">Isi Dulu</string>
+    <string name="developer">Candra Julius Sinaga</string>
+    <string name="hint">Enter Your Name In Here</string>
+</resources>
